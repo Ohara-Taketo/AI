@@ -1,0 +1,30 @@
+/* 全体のリセット */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+/* 見出しの親コンテナ */
+.heading-container h1 {
+    margin: 0;
+    padding: 15px 0;
+    /* 上下の余白を増やして文字を少し下に移動 */
+    width: 100vw;
+    height: auto;
+    /* 高さを自動調整 */
+    display: block;
+    text-align: center;
+    align-items: center;
+    color: #7AB2D3;
+    background-color: #DFF2EB;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.heading-container h1:hover {
+    background-color: #B8E0D4;
+    color: #5F9EAA;
+}

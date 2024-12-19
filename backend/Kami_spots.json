@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "spot_id": "s001",
+            "name": "べふ峡",
+            "category": [
+                "c001",
+                "c003"
+            ],
+            "identification": "香美市観光地",
+            "KUT_point": 4.0,
+            "image_path": "/images/KUT.jpg"
+        },
+        {
+            "spot_id": "s002",
+            "name": "龍河洞",
+            "category": [
+                "c001",
+                "c003"
+            ],
+            "identification": "香美市観光地",
+            "KUT_point": 4.2,
+            "image_path": "/images/KUT.jpg"
+        },
+        {
+            "spot_id": "s003",
+            "name": "アンパンマンミュージアム",
+            "category": [
+                "c001",
+                "c004"
+            ],
+            "identification": "香美市観光地",
+            "KUT_point": 4.5,
+            "image_path": "/images/KUT.jpg"
+        },
+        {
+            "spot_id": "s004",
+            "name": "鏡野公園",
+            "category": [
+                "c002",
+                "c005"
+            ],
+            "identification": "香美市観光地",
+            "KUT_point": 4.1,
+            "image_path": "/images/KUT.jpg"
+        },
+        {
+            "spot_id": "s005",
+            "name": "高知工科大学",
+            "category": [
+                "c002",
+                "c006"
+            ],
+            "identification": "香美市観光地",
+            "KUT_point": 3.2,
+            "image_path": "/images/KUT.jpg"
+        },
+        {
+            "spot_id": "s006",
+            "name": "笹渓谷",
+            "category": [
+                "c003"
+            ],
+            "identification": "香美市観光地",
+            "KUT_point": 4.2,
+            "image_path": "/images/KUT.jpg"
+        },
+        {
+            "spot_id": "s007",
+            "name": "ABCマート",
+            "category": [
+                "c003"
+            ],
+            "identification": "香美市観光地",
+            "KUT_point": 2.1,
+            "image_path": "/images/KUT.jpg"
+        }
+    ]
+}

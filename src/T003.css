@@ -1,0 +1,34 @@
+.select-main-spot {
+    padding: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* 縦並びに配置 */
+    gap: 4px; /* 各コンテンツ間の間隔を設定 */
+}
+
+.filter h3{
+    text-align: center;
+}
+
+.travel-date {
+    text-align: center;
+}
+
+.travel-date p {
+    margin: 0; /* 上下余白をなくす */
+    font-size: 14px; /* 必要に応じてフォントサイズを調整 */
+}
+
+.travel-date input {
+    margin: 0; /* デフォルトの余白をなくす */
+    padding: 4px; /* 入力フィールドの内側の余白を調整 */
+    font-size: 14px; /* フォントサイズを調整 */
+}
+
+.make-plan {
+    display: flex;
+    justify-content: center; /* 水平方向の中央揃え */
+    margin: 10vh;
+}
+
+
